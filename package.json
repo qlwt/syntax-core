@@ -5,7 +5,7 @@
     "main": "./build/bundle/entry/index.js",
     "description": "Defenitions and Implementation for syntax parsing and interpretation",
     "keywords": ["lexer", "tokenizer", "syntax", "parser", "interpreter", "expression", "math"],
-    "homepage": "https://github.com/qlwt/signal-core#readme",
+    "homepage": "https://github.com/qlwt/syntax-core#readme",
     "license": "MIT",
     "files": [
         "./build/**/*"
